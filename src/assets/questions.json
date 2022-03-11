@@ -1,0 +1,220 @@
+{
+    "questions":
+    [
+        {
+
+            "questiontext":"which of the follwing does typescript use to specify?",
+            "options":
+            [
+                {
+                    "text":":",
+                    "correct":true
+                },
+                {
+                    "text":";"
+                },
+                {
+                    "text":"?"
+                },
+                {
+                    "text":"!"
+                }
+
+
+            ],
+                "explanation":"ts uses a colan(:) to sepearate the property name from the property type"
+
+        },
+
+        {
+            "questiontext":"When was the first time TypeScript was made public?",
+            "options":
+            [
+                {
+                    "text":"December 2012"
+                    
+                },
+                {
+                    "text":"october 2012",
+                    "correct":true
+                },
+                {
+                    "text":"march 2012"
+                },
+                {
+                    "text":"april 2012"
+                }
+
+
+            ],
+            "explanation":"ts uses a colan(:) to sepearate the property name from the property type"
+
+        },
+
+        {
+            "questiontext":" Which are the different Data Types supported by Typescript?",
+            "options":
+            [
+                {   "text":"String var name: string = jon" 
+                   
+                },
+                {
+                    "text":"Boolean var bValue: boolean = false"
+                },
+                {
+                    "text":"Number var age: number = 16"
+                },
+                {
+                    "text":"All of the above mentioned",
+                    "correct":true
+                }
+
+
+            ],
+            "explanation":"ts uses a colan(:) to sepearate the property name from the property type"
+
+        },
+
+        {
+            "questiontext":" What are the variable scopes available in TypeScript?",
+            "options":
+            [
+                {
+                    "text":"Global Scope"
+                },
+                {
+                    "text":"Class Scope"
+                },
+                {
+                    "text":"Local Scope"
+                },
+                {
+                    "text":"All of the above mentioned",
+                    "correct":true
+                }
+
+
+            ],
+            "explanation":"ts uses a colan(:) to sepearate the property name from the property type"
+
+        },
+        {
+            "questiontext":"which of the follwing does typescript use to specify?",
+            "options":
+            [
+                {
+                    "text":":",
+                    "correct":true
+                },
+                {
+                    "text":":"
+                },
+                {
+                    "text":":"
+                },
+                {
+                    "text":":"
+                }
+
+
+            ],
+            "explanation":"ts uses a colan(:) to sepearate the property name from the property type"
+
+        },
+        {
+            "questiontext":"which of the follwing does typescript use to specify?",
+            "options":
+            [
+                {
+                    "text":":",
+                    "correct":true
+                },
+                {
+                    "text":":"
+                },
+                {
+                    "text":":"
+                },
+                {
+                    "text":":"
+                }
+
+
+            ],
+            "explanation":"ts uses a colan(:) to sepearate the property name from the property type"
+
+        },
+        {
+            "questiontext":"which of the follwing does typescript use to specify?",
+            "options":
+            [
+                {
+                    "text":":",
+                    "correct":true
+                },
+                {
+                    "text":":"
+                },
+                {
+                    "text":":"
+                },
+                {
+                    "text":":"
+                }
+
+
+            ],
+            "explanation":"ts uses a colan(:) to sepearate the property name from the property type"
+
+        },
+        {
+            "questiontext":"which of the follwing does typescript use to specify?",
+            "options":
+            [
+                {
+                    "text":":",
+                    "correct":true
+                },
+                {
+                    "text":":"
+                },
+                {
+                    "text":":"
+                },
+                {
+                    "text":":"
+                }
+
+
+            ],
+            "explanation":"ts uses a colan(:) to sepearate the property name from the property type"
+
+        },
+        {
+            "questiontext":"which of the follwing does typescript use to specify?",
+            "options":
+            [
+                {
+                    "text":":",
+                    "correct":true
+                },
+                {
+                    "text":":"
+                },
+                {
+                    "text":":"
+                },
+                {
+                    "text":":"
+                }
+
+
+            ],
+            "explanation":"ts uses a colan(:) to sepearate the property name from the property type"
+
+        }
+
+
+
+    ]
+}
